@@ -1,0 +1,34 @@
+# Инна Тихонович
+![Моё фото](https://img.freepik.com/free-photo/hair-style-street-fashion-beautiful-girl_1139-844.jpg)
+
+[<img src="https://imgpng.ru/d/phone_PNG49052.png" width="25"/>](https://imgpng.ru/d/phone_PNG49052.png)
+####+37529 111 11 11
+###[Ссылка на Git](https://github.com/InnaTsikhanovich/demo1)
+
+
+##Информация обо мне:
+Здесь информация о моих целях и приоритетах,сильных сторонах.
+
+
+##Навыки
+1. Основы языков прграммирования Python, C++
+1. Основы HTML и CSS
+
+##Пример кода на Python:
+
+```python
+
+x = int(input())
+
+if x > 0:
+
+    print(x)
+
+else:
+
+    print(-x)
+
+```
+###Опыт работы:
+**2014-2022** - учитель информатики
+**2018-по сегодняшний день** - преподаватель компьютерной академии "ШАГ"
